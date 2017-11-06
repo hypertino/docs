@@ -1,0 +1,29 @@
+site_name: Hypertino
+site_url: http://docs.hypertino.com
+site_description: Hypertino is where the services live.
+site_author: Hypertino contributors
+
+repo_url: https://github.com/hypertino/docs/
+edit_uri: ""
+
+pages:
+    - Home: index.md
+    - Quickstart: quickstart.md
+    - Hyperbus: hyperbus/README.md
+
+#extra_css:
+#    - css/extra.css
+
+markdown_extensions:
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+
+copyright: Copyright &copy; 2017 Hypertino contributors.
+#google_analytics: []
+
+plugins:
+    - search
+
+theme: readthedocs

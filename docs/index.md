@@ -1,8 +1,3 @@
-.. Hypertino documentation master file, created by
-   sphinx-quickstart on Mon Nov  6 21:58:14 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Hypertino,
 *is where the services live.*
 
@@ -21,11 +16,3 @@ This framework was created with the following principles and concepts in mind bu
 - API modeling and specification;
 
 The mission of framework is to share in a community as much as possible useful code in a form that is reusable and maintainable by many.
-
-.. toctree::
-    :maxdepth: 2
-    :caption: Contents:
-
-    quickstart
-    hyperbus/index
-
