@@ -7,7 +7,7 @@ Hypertino,
         :titlesonly:
         :glob:
         :hidden:
-        hyperbus/index.rst
+        hyperbus/index
 
 Introduction
 ============
