@@ -1,13 +1,17 @@
+.. Hypertino documentation master file, created by
+   sphinx-quickstart on Mon Nov  6 21:58:14 2017.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
 Hypertino,
+==========
 *is where the services live.*
 
 .. toctree::
-:maxdepth: 2
-        :numbered:
-        :titlesonly:
-        :glob:
-        :hidden:
-        hyperbus/index
+    :maxdepth: 2
+    :caption: Contents:
+
+    hyperbus/index
 
 Introduction
 ============
@@ -16,12 +20,12 @@ Hypertino is a framework, set of conventions, protocols, libraries and services 
 
 This framework was created with the following principles and concepts in mind but not limited to:
 
-	- SRP and DRY;
-	- Loose coupling;
-	- ESB;
-	- REST;
-	- Scalability;
-	- API modeling and specification;
+- SRP and DRY;
+- Loose coupling;
+- ESB;
+- REST;
+- Scalability;
+- API modeling and specification;
 
 The mission of framework is to share in a community as much as possible useful code in a form that is reusable and maintainable by many.
 
@@ -29,3 +33,10 @@ Quickstart
 ==========
 
 TODO
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
