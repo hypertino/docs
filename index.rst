@@ -1,5 +1,14 @@
-Hypertino, 
+Hypertino,
 *is where the services live.*
+
+.. toctree::
+:maxdepth: 2
+        :numbered:
+        :titlesonly:
+        :glob:
+        :hidden:
+
+        hyperbus/index.rst
 
 Introduction
 ============
