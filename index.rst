@@ -7,7 +7,6 @@ Hypertino,
         :titlesonly:
         :glob:
         :hidden:
-
         hyperbus/index.rst
 
 Introduction
@@ -27,6 +26,6 @@ This framework was created with the following principles and concepts in mind bu
 The mission of framework is to share in a community as much as possible useful code in a form that is reusable and maintainable by many.
 
 Quickstart
-============
+==========
 
 TODO
