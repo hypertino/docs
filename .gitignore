@@ -6,3 +6,6 @@ project/plugins/project/
 
 # OS specific
 .DS_Store
+
+# rtfd specific
+_build/
