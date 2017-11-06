@@ -1,0 +1,8 @@
+# IDE specific
+.idea/
+.idea_modules/
+project/boot/
+project/plugins/project/
+
+# OS specific
+.DS_Store
