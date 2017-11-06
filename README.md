@@ -4,4 +4,4 @@
 
 [![Docs badge](https://readthedocs.org/projects/pip/badge/?version=latest)](https://readthedocs.org/projects/pip/badge/?version=latest)
 
-Go to [documentation](docs.hypertino.com)
+Go to [documentation](http://docs.hypertino.com)
