@@ -9,7 +9,11 @@ edit_uri: ""
 pages:
     - Home: index.md
     - Quickstart: quickstart.md
-    - Hyperbus: hyperbus/README.md
+    - Hyperbus: hyperbus.md
+    - Hyperfacade: hyperfacade.md
+    - Hyperstorage: hyperstorage-service.md
+    - Code of Conduct: code-of-conduct.md
+    - License: license.md
 
 #extra_css:
 #    - css/extra.css
