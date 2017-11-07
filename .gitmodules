@@ -1,9 +1,9 @@
-[submodule "hyperbus"]
-	path = docs/hyperbus
+[submodule "modules/hyperbus"]
+	path = modules/hyperbus
 	url = https://github.com/hypertino/hyperbus.git
-[submodule "docs/hyperstorage-service"]
-	path = docs/hyperstorage-service
-	url = https://github.com/hypertino/hyperstorage-service.git
-[submodule "docs/hyperfacade"]
-	path = docs/hyperfacade
+[submodule "modules/hyperfacade"]
+	path = modules/hyperfacade
 	url = https://github.com/hypertino/hyperfacade.git
+[submodule "modules/hyperstorage-service"]
+	path = modules/hyperstorage-service
+	url = https://github.com/hypertino/hyperstorage-service.git
